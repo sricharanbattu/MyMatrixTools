@@ -1,0 +1,8 @@
+MyMatrixTools	KEYWORD1
+getLedIndex	KEYWORD2
+setLedByIndex	KEYWORD2
+setLed2D	KEYWORD2
+removeLedByIndex	KEYWORD2
+removeLed2D	KEYWORD2
+clearFrame	KEYWORD2
+getFrame	KEYWORD2
